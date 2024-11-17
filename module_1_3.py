@@ -26,3 +26,12 @@ dd = 'Курс: '
 
 print(dd,d,aa,a,bb,b,cc,c,' часа.', sep='')
 
+#Практика "Строки и индексация строк"
+example = "Nizaminem"
+print(example[0])
+print(example[-1])
+print(example[4:])
+print(example[::-1])
+print(example[1::2])
+
+
